@@ -1,0 +1,46 @@
+#lena{
+    padding: 20px;
+    .imgPrincipal {
+        margin: 0 0 23px 0;
+    }
+    
+    .colLeft{
+        img{
+            display: inline-block;
+            padding:10px;
+            box-sizing: border-box;
+            float:left;
+            width:50%;
+        }
+        &:after{
+            display:block;
+            content:'';
+            clear:both;
+        }
+    }
+    
+   .colCenter,.colRigth{
+       float: left;
+       width: 50%;
+   }
+   
+   .colRigth{
+       padding-left: 20px;
+       box-sizing: border-box;
+   }
+    
+    
+}
+
+@media (max-width: 600px) {
+    #lena{
+       .colCenter,.colRigth{
+           float: none;
+           width: auto;
+       }
+        .colRigth{
+           padding: 20px 0;
+       }
+    }
+}
+

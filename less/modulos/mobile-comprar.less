@@ -1,0 +1,43 @@
+#comprar {
+    .map {
+        display: none;
+    }
+    .comprarLugares {
+        width: auto;
+        float: none;
+        padding: 20px;
+        .block_comp {
+            width: 50%;
+            float: left;
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    #comprar {
+        .comprarLugares {
+            .block_comp {
+                width: 100%;
+                float: none;
+            }
+        }
+    }
+}
+
+@media (max-width: 460px) {
+    #comprar {
+        .comprarLugares {
+            .block_comp {
+                height: auto;
+                img,
+                p {
+                    position: initial;
+                }
+                img {
+                    padding: 10px;
+                    margin: 0 auto;
+                }
+            }
+        }
+    }
+}

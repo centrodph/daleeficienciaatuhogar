@@ -1,0 +1,45 @@
+ul.menuPrincipal {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    float: left;
+    &:after {
+        display: block;
+        content: '';
+        clear: both;
+    }
+    li {
+        width: 33.3333%;
+        height: auto;
+        a {
+            line-height: 35px;
+        }
+    }
+}
+
+ul.subMenu {
+    width: auto;
+    height: auto;
+    li {
+        width: 33.33333% !important;
+        background: none;
+        height: auto;
+        a {
+            line-height: 35px;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    ul.menuPrincipal {
+        li {
+            width: 50%;
+        }
+    }
+
+    ul.subMenu {
+        li {
+            width: 50% !important;
+        }
+    }
+}
