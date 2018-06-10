@@ -66,26 +66,31 @@ Shadowbox.init();
                         <img src="./de/images/homeTR.png" />
                     </div>    
                     <div class="homebanner-bottom-left">
-                        <a href="640_480_dvh.flv"
+                        <a href="https://www.youtube.com/embed/9QBYdMfgHiw?rel=0&autoplay=1"
                             class="blue linkbig" title="Video 1 de 4"
-                            rel="shadowbox[Videos];height=500;width=740">video</a>
+                            rel="shadowbox[Videos];height=315;width=560">video</a>
                         <p>Aproveche al máximo la eficiencia de un equipo a leña y disfrute de la calidez de su hogar.</p>
                     </div>
-                    <a href="VIDEO_FINAL_1_dale_vida.flv" 
+                    <a href="https://www.youtube.com/embed/HdpAAJ2xqVc?rel=0&autoplay=1"
                         class="blue linkbig" 
                         title="Video 2 de 4" 
-                        rel="shadowbox[Videos];height=500;width=740" 
-                        style="display:none;">video</a>
-                    <a href="VIDEO_FINAL_2_dale_vida.flv" 
+                        rel="shadowbox[Videos];height=315;width=560"
+                        style="display:none;">HdpAAJ2xqVc</a>
+                    <a href="https://www.youtube.com/embed/zF7swCALSqo?rel=0&autoplay=1"
                         class="blue linkbig" 
                         title="Video 3 de 4"  
-                        rel="shadowbox[Videos];height=500;width=740"
-                        style="display:none;">video</a>
-                    <a href="VIDEO_FINAL_3_dale_vida.flv" 
+                        rel="shadowbox[Videos];height=315;width=560"
+                        style="display:none;">zF7swCALSqo</a>
+                    <a href="https://www.youtube.com/embed/uYeDkoGk4a4?rel=0&autoplay=1"
                         class="blue linkbig" 
                         title="Video 4 de 4"  
-                        rel="shadowbox[Videos];height=500;width=740"
-                        style="display:none;">video</a>
+                        rel="shadowbox[Videos];height=315;width=560"
+                        style="display:none;">uYeDkoGk4a4</a>
+                    <a href="https://www.youtube.com/embed/OCKEzsXER-k?rel=0&autoplay=1"
+                        class="blue linkbig" 
+                        title="Video 4 de 4"  
+                        rel="shadowbox[Videos];height=315;width=560"
+                        style="display:none;">OCKEzsXER-k</a>
                         <img src="images/brgHome.jpg" class="only-mobile" />
                 </div>
             </div>
