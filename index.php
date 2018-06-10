@@ -1,4 +1,6 @@
-<?php $active=1; $cache=date('l jS \of F Y h:i:s A'); ?>
+<?php $active=1;
+$cache=date('l jS \of F Y h:i:s A');
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -8,7 +10,8 @@
 <title>Aquecendo seu lar</title>
 <meta name="description" content="lareira,lareira fechada,lareira com porta de vidro,lareira de alto desempenho,gas,pellet,lenha,eficiência,dupla combustão,Schott Robax,vitrocerâmico,resitente a altas temperaturas,choque térmico,controle de fumaça,sustentável, vidro especial, lareira sem fumaça ,lareira de vidro ,vidros curvos ,lareira ecológica,aquecimento,recuperador de calor,Estufas,Salamandras,fogão a lenha ,calefatores,chaminés "/>
 <link rel="stylesheet" type="text/css" href="css/lib.min.css">
-<link href="css/aque.css?q=<?php echo $cache; ?>" rel="stylesheet" type="text/css" />
+<link href="css/aque.css?q=<?php echo $cache;
+?>" rel="stylesheet" type="text/css" />
 <script src="js/lib.min.js" type="text/javascript" ></script>
 <script type="text/javascript" src="js/dvath.js"></script>
 <script type="text/javascript">
@@ -55,48 +58,55 @@ Shadowbox.init();
 			<?php include("inc.menu.php");
 ?>
             <div id="homeC">
-            <div id="slider" class="hidden-mobile">
-            <img src="images/brgHome201505.jpg" />
-            </div>
-            	<div class="homeD">
-           	    <h1 style="font-size:26px; width:400px">Design e Tecnologia,
-                  <br/>para seu novo lar.</h1>
-                <h4>Consumo eficiente de combustível (lenha, pellets, gás...)<br />
-                  Alta transmissão de calor <br />
-                  Sem riscos de faíscas, fumaças ou cheiro. </h4>
-                <p style="color:#000;">
-                  Aproveite o máximo a eficiência de<br />
-                  uma lareira moderna e desfrute do<br />
-                  calor e da visão das chamas.</p>
-				   <a href="640_480_dvh.flv"
-                        class="blue linkbig" title="Video 1 de 4"
+                <div id="slider" class="hidden-mobile">
+                    <img src="./de/images/home.jpg" />
+                </div>
+                <div class="homeD">
+                    <div class="homebanner-top-right">
+                        <img src="./de/images/homeTR.png" />
+                    </div>    
+                    <div class="homebanner-bottom-left">
+                        <a href="640_480_dvh.flv"
+                            class="blue linkbig" title="Video 1 de 4"
+                            rel="shadowbox[Videos];height=500;width=740">video</a>
+                        <p>Aproveche al máximo la eficiencia de un equipo a leña y disfrute de la calidez de su hogar.</p>
+                    </div>
+                    <a href="VIDEO_FINAL_1_dale_vida.flv" 
+                        class="blue linkbig" 
+                        title="Video 2 de 4" 
+                        rel="shadowbox[Videos];height=500;width=740" 
+                        style="display:none;">video</a>
+                    <a href="VIDEO_FINAL_2_dale_vida.flv" 
+                        class="blue linkbig" 
+                        title="Video 3 de 4"  
                         rel="shadowbox[Videos];height=500;width=740"
                         style="display:none;">video</a>
-                <a href="VIDEO_FINAL_1_dale_vida.flv" class="blue linkbig" title="Video 2 de 4"
-    rel="shadowbox[Videos];height=500;width=740" style="display:none;">video</a>
-<a href="VIDEO_FINAL_2_dale_vida.flv" class="blue linkbig" title="Video 3 de 4"  rel="shadowbox[Videos];height=500;width=740"style="display:none;">video</a>
-<a href="VIDEO_FINAL_3_dale_vida.flv" class="blue linkbig" title="Video 4 de 4"  rel="shadowbox[Videos];height=500;width=740"style="display:none;">video</a>
-                    <img src="images/brgHome.jpg" class="only-mobile" />
+                    <a href="VIDEO_FINAL_3_dale_vida.flv" 
+                        class="blue linkbig" 
+                        title="Video 4 de 4"  
+                        rel="shadowbox[Videos];height=500;width=740"
+                        style="display:none;">video</a>
+                        <img src="images/brgHome.jpg" class="only-mobile" />
                 </div>
             </div>
             <div class="homeBottom">
               <div class="colLeft brgGray">
-                	<h4>A lenha não será<br />um problema</h4>
-                    <a href="lena.php" class="orange linklittle">Mais</a>
+                	<h4>La leña ya no será<br />un problema</h4>
+                    <a href="lena.php" class="orange linklittle">+</a>
                 </div>
                 <div class="colCenter brgGray">
-                	<h4>Fácil instalação</h4>
-                    <p>Você poderá instalar como deseja.</p>
-                    <a href="instalacion.php" class="orange linklittle">Mais</a>
+                	<h4>Fácil instalación</h4>
+                    <p>Tan fácil de instalar como usted desee.</p>
+                    <a href="instalacion.php" class="orange linklittle">+</a>
                 </div>
                 <div class="colRigth brgGray">
-                	<h4>Onde encontramos</h4>
-                    <p>Encontre a equipe de vendas mais próxima e escolha o <br/>
-                      que melhor se adapte ao seu estilo.</p>
-                    <a href="comprar.php" class="orange linklittle">Mais</a>
+                	<h4>Dónde encontrarlos</h4>
+                    <p>Encontrá el local de ventas más cercano y elegí el equipo 
+                    a leña que mejor se adapte a tu estilo.</p>
+                    <a href="comprar.php" class="orange linklittle">+</a>
                 </div>
-            <div class="clear"></div>
-            </div>
+                <div class="clear"></div>    
+            </div>   
             <div id="fab" style="display:none">
             	<a href="http://www.fiammazuccato.com.ar/" class="fiamma" target="_blank" ></a>
                 <a href="http://www.hogaresramses.com.ar/" class="ramses" target="_blank"  ></a>

@@ -1,4 +1,6 @@
-<?php  $active=5;  $cache=date('l jS \of F Y h:i:s A'); ?>
+<?php  $active=5;
+$cache=date('l jS \of F Y h:i:s A');
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -7,21 +9,21 @@
 <title>Aquecendo seu lar</title>
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
 <meta name="description" content="lareira,lareira fechada,lareira com porta de vidro,lareira de alto desempenho,gas,pellet,lenha,eficiência,dupla combustão,Schott Robax,vitrocerâmico,resitente a altas temperaturas,choque térmico,controle de fumaça,sustentável, vidro especial, lareira sem fumaça ,lareira de vidro ,vidros curvos ,lareira ecológica,aquecimento,recuperador de calor,Estufas,Salamandras,fogão a lenha ,calefatores,chaminés "/>
-
 <linkhref="css/lib.min.css"  rel="stylesheet" type="text/css" />
-<link href="css/aque.css?q=<?php echo $cache; ?>" rel="stylesheet" type="text/css" />
+<link href="css/aque.css?q=<?php echo $cache;
+?>" rel="stylesheet" type="text/css" />
 <script src="js/lib.min.js" type="text/javascript" ></script>
 <script src="js/dvath.js" type="text/javascript"></script>
 </head>
 <body id="brgBody">
 <div id="brgWrapper">
 	<div id="wrapper">
-<?php include("inc.head.php");
+    <?php include("inc.head.php");
 ?>
-        <div id="content" class="contentFull">
-<?php include("inc.menu.php");
+    <div id="content">
+      <?php include("inc.menu.php");
 ?>
-        <div id="comprar">
+      <div id="comprar">
         <img src="images/imgCentralComprar.jpg" width="1000" height="284" class="imgCentral" />
 		  <h1>Comprar equipamentos de lenha.</h1>
 		  <p>Visite um local de vendas mais próximo e aqueça seu lar com uma
@@ -29,8 +31,10 @@
           <?php
 		  //eliminado por cliente
 
+
+
 /*
-lllllllllllll;
+lllllllllll;
 <h3>SELECCIONE UNA PROVINCIA EN EL MAPA PARA DESCUBRIR EL LOCAL MAS CERCANO.</h3>
          <h4>BUENOS AIRES</h4>
 		 */

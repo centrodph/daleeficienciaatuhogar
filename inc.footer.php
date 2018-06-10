@@ -1,16 +1,14 @@
             <div id="footer">
             <p>
               © 2011 SCHOTT AG  I  <br class="only-mobile"/>
-              <a href="informacion_legal.php">Informação legal</a> <span>I</span>  
-              <a href="politicas_privacidad.php">Politica de Privacidade</a> <span>I</span>  
-              <a href="pie_de_imprenta.php">Assessoria de Imprensa</a>          
+              <a href="informacion_legal.php">Informaci&oacute;n Legal</a> <span>I</span>  
+              <a href="politicas_privacidad.php">Pol&iacute;tica de Privacidad</a> <span>I</span>  
+              <a href="pie_de_imprenta.php">Pie de Imprenta</a>          
            </p>
             </div>
-            
             <div class="floating-buy">
               <a href="comprar.php" title="COMPRAR"><span>C</span><span>O</span><span>M</span><span>P</span><span>R</span><span>A</span><span>R</span></a>
             </div>
-            
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23804003-1']);
