@@ -97,7 +97,7 @@
                     <map name="Map" id="Map">
                         <area shape="rect" coords="677,74,955,157" href="http://www.productosnuke.com.ar/" target="_blank" />
                         <area shape="rect" coords="334,74,612,157" href="http://www.lepencalefactores.com.ar/" target="_blank" />
-                        <area shape="rect" coords="2,74,280,157" href="http://www.bosca.cl/" target="_blank" />
+                        <area shape="rect" coords="2,74,280,157" href="http://bosca.net.ar/" target="_blank" />
                 </div>
                 <?php
             include("inc.footer.php");

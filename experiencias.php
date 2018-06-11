@@ -3,12 +3,10 @@ $cache=date('l jS \of F Y h:i:s A');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
   <?php include("./de/meta.php");
 ?>
 </head>
-
 <body id="brgBody">
   <div id="brgWrapper">
     <div id="wrapper">
@@ -21,52 +19,46 @@ $cache=date('l jS \of F Y h:i:s A');
 ?>
         <div class="clear"></div>
         <div id="experiencias">
-          <h2>Experiência Em Aquecimento De Lares</h2>
-          <p>Escolher uma lareira é mais do que uma questão de gosto e design. As lareiras da nova geração podem também oferecer:
-            alta performance, aconchego, agradável calor e fascinante visão do fogo.</p>
-          <div class="clear"></div>
-          <div class="colLeftCenterEqual">
-            <h3>Lareiras</h3>
+		<h2>Experiencia en Calefactores y hogares a leña</h2>
+        <p>Elegir un hogar o una estufa es algo más que una cuestión de gusto y diseño. Sin embargo, los hogares y estufas a leña de la nueva generación tienen cuatro cosas en común: alto rendimiento, hermeticidad, agradable calor que producen y la visión fascinante de un fuego llameante.</p>
+        <div class="clear"></div>
+        <div class="colLeftCenterEqual">
+            <h3>Calefactores & hogares a leña.</h3>
             <img src="images/experiencias_calefactores.jpg" width="292" height="158" alt="" />
-            <p>O gosto e design são os fatores mais importantes quando se trata de escolher uma lareira. Saiba mais sobre os
-              diferentes modelos e opções. </p>
+            <p>El gusto y el diseño no son los factores más importantes cuando se trata de elegir un hogar o estufa. 
+            Infórmese sobre los distintos modelos y opciones. </p>
             <div class="clear"></div>
-          </div>
-          <div class="colLeftCenterEqual">
-            <h3>Instalação</h3>
+        </div>   
+        <div class="colLeftCenterEqual">
+            <h3>Instalaci&oacute;n.</h3>
             <img src="images/experiencias_instalacion.jpg" width="292" height="158" alt="" />
-            <p>Não perca a oportunidade de desfrutar o momento perfeito. As lareiras podem ser instaladas em qualquer lugar.
-              </p>
+            <p>No pierda su oportunidad de disfrutar del momento perfecto. Pueden instalarse hogares o estufas en cualquier sitio. </p>
             <div class="clear"></div>
-          </div>
-          <div class="colLeftCenterEqual noMR">
-            <h3>Limpeza</h3>
+        </div>  
+        <div class="colLeftCenterEqual noMR">
+            <h3>Limpieza.</h3>
             <img src="images/experiencias_limpieza.jpg" width="292" height="158" alt="" />
-            <p>Limpeza do vitrocerâmico SCHOTT ROBAX é muito simples e fácil de fazer. As dicas estão neste link? Acho que ficaria
-              melhor se "fosse" Aqui estão dicas especialistas. </p>
+            <p>La limpieza del vitrocer&aacute;mico SCHOTT ROBAX es muy simple y f&aacute;cil de llevar a cabo. Consejos de expertos para limpiar el vitrocer&aacute;mico sin problema alguno. </p>
             <div class="clear"></div>
-          </div>
-          <div class="colLeftCenterEqual">
-            <h3>Painéis vitrocerâmicos</h3>
+        </div>  
+        <div class="colLeftCenterEqual">
+          <h3>Paneles de Vitrocer&aacute;mico.</h3>
             <img src="images/experiencias_paneles.jpg" width="292" height="158" alt="" />
-            <p>Os painéis vitrocerâmicos SCHOTT ROBAX oferecem uma vista fascinante das chamas, sem se preocupar com fumaça
-              e faíscas. </p>
+            <p>Los paneles de vitrocer&aacute;mico ofrecen una vista fascinante de las llamas, sin necesidad de preocuparse del humo y de las chispas. </p>
             <div class="clear"></div>
-          </div>
-          <div class="colLeftCenterEqual">
-            <h3>Lenha</h3>
+        </div>   
+        <div class="colLeftCenterEqual">
+          <h3>Le&ntilde;a</h3>
             <img src="images/experiencias_lena.jpg" width="292" height="158" alt="" />
-            <p>Como utilizar a madeira de forma eficiente? Saiba mais sobre o conteúdo e armazenamento de diferentes tipos de
-              madeira como fonte de energia. </p>
+            <p>C&oacute;mo usar la le&ntilde;a eficientemente? Inf&oacute;rmese sobre los contenidos energ&eacute;ticos y almacenamiento de los distintos tipos de madera. </p>
             <div class="clear"></div>
-          </div>
-          <div class="colLeftCenterEqual noMR">
-            <h3>Clima perfeito</h3>
+        </div>  
+        <div class="colLeftCenterEqual noMR">
+          <h3>Clima perfecto.</h3>
             <img src="images/experiencias_clima.jpg" width="292" height="158" alt="" />
-            <p>O calor irradiado pelas lareiras cria um clima saudável e confortável. Venha desfrutar do fogo de uma lareira.
-              </p>
+            <p>El calor irradiado por hogares y estufas crea un clima saludable y de confort. Vuelva a disfrutar del fuego a le&ntilde;a.. </p>
             <div class="clear"></div>
-          </div>
+        </div> 
           <div class="clear"></div>
         </div>
         <?php include("inc.footer.php");
@@ -75,5 +67,4 @@ $cache=date('l jS \of F Y h:i:s A');
     </div>
   </div>
 </body>
-
 </html>
