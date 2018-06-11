@@ -1,6 +1,6 @@
             <div id="footer">
             <p>
-              © 2011 SCHOTT AG  I  <br class="only-mobile"/>
+              © <?php echo date("Y");?> SCHOTT AG  I  <br class="only-mobile"/>
               <a href="informacion_legal.php">Informaci&oacute;n Legal</a> <span>I</span>  
               <a href="politicas_privacidad.php">Pol&iacute;tica de Privacidad</a> <span>I</span>  
               <a href="pie_de_imprenta.php">Pie de Imprenta</a>          
