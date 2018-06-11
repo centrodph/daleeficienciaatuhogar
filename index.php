@@ -59,7 +59,8 @@
                             <img src="./de/images/homeTR.png" />
                         </div>
                         <div class="homebanner-bottom-left">
-                            <a href="https://www.youtube.com/embed/9QBYdMfgHiw?rel=0&autoplay=1" class="blue linkbig" title="Video 1 de 4" rel="shadowbox[Videos];height=315;width=560">video</a>
+                            <a href="https://www.youtube.com/embed/9QBYdMfgHiw?rel=0&autoplay=1" class="blue linkbig hidden-mobile" title="Video 1 de 4"
+                                rel="shadowbox[Videos];height=315;width=560">video</a>
                             <p>Aproveche al máximo la eficiencia de un equipo a leña y disfrute de la calidez de su hogar.</p>
                         </div>
                         <a href="https://www.youtube.com/embed/HdpAAJ2xqVc?rel=0&autoplay=1" class="blue linkbig" title="Video 2 de 4" rel="shadowbox[Videos];height=315;width=560"
