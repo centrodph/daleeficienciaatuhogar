@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-  <?php include("./de/meta.php");?>
+  <?php include("./de/meta.php"); ?>
 </head>
 
 <body id="brgBody">
@@ -13,7 +13,7 @@
       <div id="content">
         <?php include("inc.menu.php");?>
         <div id="comprar">
-          <img src="images/imgCentralComprar.jpg" width="1000" height="284" class="imgCentral" />
+          <img src="./de/images/robax-a-medida.jpg" width="1000" height="284" class="imgCentral" />
           <h1>Comprar equipamentos de lenha.</h1>
           <p>Visite um local de vendas mais próximo e aqueça seu lar com uma lareira moderna desfrutando da visão total das
             chamas.
@@ -98,7 +98,8 @@
           </div>
           <div class="clear"></div>
         </div>
-        <?php include("inc.footer.php");?>
+        <?php include("inc.footer.php");
+?>
       </div>
     </div>
   </div>

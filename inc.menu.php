@@ -13,7 +13,7 @@
   <li <?php if ($active == 3) {
 	echo 'class="active"';
 }
-?>><a href="preguntas_frecuentes.php" title="PERGUNTAS FREQUENTES ">ROBAX A MEDIDA</a></li>
+?>><a href="paneles.php" title="PERGUNTAS FREQUENTES ">ROBAX A MEDIDA</a></li>
   <li <?php if ($active == 5) {
 	echo 'class="active"';
 }

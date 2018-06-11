@@ -6,9 +6,6 @@
               <a href="pie_de_imprenta.php">Pie de Imprenta</a>          
            </p>
             </div>
-            <div class="floating-buy">
-              <a href="comprar.php" title="COMPRAR"><span>C</span><span>O</span><span>M</span><span>P</span><span>R</span><span>A</span><span>R</span></a>
-            </div>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23804003-1']);
