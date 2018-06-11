@@ -17,17 +17,18 @@
                 <div id="comprar">
                     <img src="images/imgCentralLegales.jpg" width="1000" height="284" class="imgCentral" />
                     <h4>Impronta.</h4>
-                    <div class="impronta">
-                        <p>Schott Brasil - Divisão de Vendas Internacionais
-                            <br /> Av. Francisco Nakasato, 1801, Itupeva/SP, Brasil
-                            <br /> Phone: +55 (0) 11 / 4591-0288
-                            <br /> Fax: +55 (0) 11 / 4591-0285
-                            <br /> www.schott.com
-                        </p>
-                        <div class="clear"></div>
-                    </div>
-                    <div class="clear"></div>
-                </div>
+          <div class="impronta">
+            <p>SCHOTT Argentina S.A<br />
+              <br />
+              Primera Junta 3181<br />
+              1605 Munro - Buenos Aires<br />
+              Argentina</p>
+            <p>Phone:             +54 11 4756 - 0161       / 2275
+              <br />
+              Fax: +54 11 4756 - 2324<br />
+            www.schott.com</p>
+            <div class="clear"></div>
+          </div>
                 <?php include("inc.footer.php");
 ?>
             </div>
