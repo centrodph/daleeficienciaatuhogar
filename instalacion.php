@@ -21,19 +21,20 @@ $cache=date('l jS \of F Y h:i:s A');
 ?>
                 <div class="clear"></div>
                 <div id="instalacion">
-                    <img src="images/instalacion_img_principal.jpg" width="950" height="239" class="imgPrincipal" />
+                    <img src="images/instalacion_img_principal.jpg" class="imgPrincipal" />
                     <div class="clear"></div>
                     <div class="colLeftBig">
                         <img src="images/instalacion_central.jpg" />
                     </div>
                     <div class="colRigth">
                         <div class="clear"></div>
-                        <h1>Equipamentos de aquecimento de lenha</h1>
-                        <p class="jus">Talvez você viva em um lugar onde já exista uma lareira e para evitar o problema com a fumaça, odor
-                            e faíscas você não a utiliza há anos. Todas os seus problemas acabaram! Se você quiser instalar
-                            uma lareira em seu lar é muito provável que necessite apenas criar um acesso a uma chaminé ou
-                            utilizar uma saída já existente.
-                            <br/> Hoje mais e mais lareiras estão sendo instaladas.</p>
+                        <h1>Instalación de equipos de calefacción a leña.</h1>
+                        <p class="jus">Tal vez usted viva en una casa en donde existe una chimenea u hogar, y por evitar conflictos con
+                            el humo, olor y chispas lo tiene en desuso hace años, o lo utiliza a gas. Todas sus complicaciones
+                            han terminado!! Si quiere instalar un hogar o una estufa en una casa, es muy posible que todo
+                            lo que deba hacer sea crear el acceso a una chimenea u hogar ya existente.
+                            <br /> Hoy en día se instalan cada vez más hogares y equipos a leña en departamentos y casas de alquiler.
+                        </p>
                     </div>
                     <div class="clear"></div>
                 </div>

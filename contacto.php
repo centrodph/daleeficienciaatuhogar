@@ -3,12 +3,10 @@ $cache=date('l jS \of F Y h:i:s A');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
     <?php include("./de/meta.php");
 ?>
 </head>
-
 <body id="brgBody">
     <div id="brgWrapper">
         <div id="wrapper">
@@ -23,7 +21,7 @@ include("inc.menu.php");
                     <img src="images/imgCentralComprar.jpg" width="1000" height="284" class="imgCentral" />
                     <h1>Contacto</h1>
                     <p>Si tiene alguna duda, o consulta, por favor no dude en contactarnos. En todas las ciudades hay personas
-                        que lo asesorar�n con mucho gusto. </p>
+                        que lo asesorarán con mucho gusto. </p>
                     <h4>
                         <a href="mailto:info@daleeficienciaatuhogar.com.ar">info@daleeficienciaatuhogar.com.ar</a>
                     </h4>
@@ -55,5 +53,4 @@ include("inc.footer.php");
         </div>
     </div>
 </body>
-
 </html>

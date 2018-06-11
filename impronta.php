@@ -11,7 +11,7 @@
         <div id="wrapper">
             <?php include("inc.head.php");
 ?>
-            <div id="content" class="contentFull">
+            <div id="content">
                 <?php include("inc.menu.php");
 ?>
                 <div id="comprar">

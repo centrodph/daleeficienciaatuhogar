@@ -21,7 +21,7 @@
   <li <?php if ($active == 6) {
 	echo 'class="active"';
 }
-?>><a href="contacto.php" title="CONTATO">CONTATO</a></li>                
+?>><a href="contacto.php" title="CONTACTO">CONTACTO</a></li>                
 <li>
 <div class="mm">
             <form action="" method="" class="fsearch">

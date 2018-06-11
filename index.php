@@ -91,14 +91,12 @@
                     </div>
                     <div class="clear"></div>
                 </div>
-                <div id="fab" style="display:none">
-                    <a href="http://www.fiammazuccato.com.ar/" class="fiamma" target="_blank"></a>
-                    <a href="http://www.hogaresramses.com.ar/" class="ramses" target="_blank"></a>
-                    <a href="http://www.lepencalefactores.com.ar/" class="lepen" target="_blank"></a>
-                    <a href="http://www.productosnuke.com.ar/" class="nuke" target="_blank"></a>
-                    <a href="http://www.tromensalamandras.com.ar/" class="tromen" target="_blank"></a>
-                    <a href="http://www.ulstrup.com.ar/" class="ulstrup" target="_blank"></a>
-                    <a href="http://www.salamandrasverellen.com.ar/" class="verellen" target="_blank"></a>
+                <div id="fab">
+                    <img src="./de/images/fabricantes.jpg" usemap="#Map" border="0" />
+                    <map name="Map" id="Map">
+                        <area shape="rect" coords="677,74,955,157" href="http://www.productosnuke.com.ar/" target="_blank" />
+                        <area shape="rect" coords="334,74,612,157" href="http://www.lepencalefactores.com.ar/" target="_blank" />
+                        <area shape="rect" coords="2,74,280,157" href="http://www.bosca.cl/" target="_blank" />
                 </div>
                 <?php
             include("inc.footer.php");

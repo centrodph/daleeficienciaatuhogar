@@ -3,12 +3,10 @@ $cache=date('l jS \of F Y h:i:s A');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
     <?php include("./de/meta.php");
 ?>
 </head>
-
 <body id="brgBody">
     <div id="brgWrapper">
         <div id="wrapper">
@@ -24,7 +22,7 @@ $cache=date('l jS \of F Y h:i:s A');
                     <img src="images/limpieza_principal.jpg" width="949" height="239" class="imgPrincipal" />
                     <div class="clear"></div>
                     <div class="colLeft">
-                        <h1 class="tGrisN">Limpeza</h1>
+                        <h1 class="tGrisN">Limpieza</h1>
                         <img src="images/limpieza_01.jpg" width="196" height="106" />
                     </div>
                     <div class="colCenter">
@@ -49,5 +47,4 @@ $cache=date('l jS \of F Y h:i:s A');
         </div>
     </div>
 </body>
-
 </html>

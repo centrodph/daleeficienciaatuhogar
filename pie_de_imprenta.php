@@ -1,20 +1,15 @@
-<?php  $active=2;
-$cache=date('l jS \of F Y h:i:s A');
-?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
   <?php include("./de/meta.php");
 ?>
 </head>
-
 <body id="brgBody">
   <div id="brgWrapper">
     <div id="wrapper">
       <?php include("inc.head.php");
 ?>
-      <div id="content" class="contentFull">
+      <div id="content">
         <?php include("inc.menu.php");
 ?>
         <div id="comprar">
@@ -49,5 +44,4 @@ $cache=date('l jS \of F Y h:i:s A');
     </div>
   </div>
 </body>
-
 </html>

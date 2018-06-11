@@ -3,9 +3,8 @@
                 <img src="./de/images/logo.png" />
             </a>
             <ul class="menuHeader hidden-mobile">
-            	<li><a href="index.php" title="Página Inicial">Página Inicial</a></li>
-                <li><a href="mapa_de_sitio.php" title="Mapa">Mapa</a></li>
-                <li><a href="contacto.php" title="Contacto">Contato</a></li>
-                <li><a href="impronta.php" title="Imprensa">Imprensa</a></li>
+            <li><a href="index.php" title="Home">Home</a></li>
+                <li><a href="contacto.php" title="Contacto">Contacto</a></li>
+                <li><a href="impronta.php" title="Impronta">Impronta</a></li>
             </ul>            
         </div>

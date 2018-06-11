@@ -99,12 +99,12 @@ p.pBlueBullet {
   margin-right: 22px;
 }
 .colCenter {
-  width: 355px;
+  width: 375px;
   float: left;
   margin-right: 22px;
 }
 .colRigth {
-  width: 355px;
+  width: 385px;
   float: left;
 }
 /*equals cols*/
@@ -131,6 +131,7 @@ p.pBlueBullet {
 }
 .imgPrincipal {
   margin: 27px 0px 39px 0px;
+  width: 100%;
 }
 
 /******head******/
@@ -154,85 +155,12 @@ a#schott {
 @import "desktop/home.less";
 
 #fab {
-  width: 950px;
-  height: 40px;
-  background: url(../images/brgFabricantes2012.png) no-repeat;
-  padding-top: 22px;
-  margin-top: 8px;
-}
-#fab a {
-  height: 40px;
-  display: block;
-  float: left;
-}
-a.fiamma {
-  width: 132px;
-}
-a.ramses {
-  width: 221px;
-}
-a.lepen {
-  width: 110px;
-}
-a.nuke {
-  width: 110px;
-}
-a.tromen {
-  width: 129px;
-}
-a.ulstrup {
-  width: 122px;
-}
-a.verellen {
-  width: 125px;
+  padding: 30px;
+  text-align: center;
 }
 
-/*****Experiancias*****/
-ul.subMenu {
-  width: 950px;
-  margin: 0px 0px 0px 0px;
-  display: block;
-  height: 24px;
-  overflow: hidden;
-  background: #333333;
-}
-ul.subMenu li {
-  float: left;
-  text-align: center;
-  background: #333333 url(../images/brgSubMenuDivisor.jpg) no-repeat;
-  background-position: right;
-  height: 24px;
-}
-ul.subMenu li a {
-  line-height: 24px;
-  display: block;
-  color: #efefef;
-  padding: 0px 20px 0px 20px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 11px;
-}
-ul.subMenu li.exp1 {
-  width: 258px;
-}
-ul.subMenu li.exp2,
-.exp3 {
-  width: 145px;
-}
-ul.subMenu li.exp4 {
-  width: 228px;
-}
-ul.subMenu li.exp5 {
-  width: 95px;
-}
-.exp6 {
-  width: 144px;
-}
-ul.subMenu li.exp6 {
-  background-image: none;
-}
-ul.subMenu li.active a {
-  color: #efefef;
-}
+@import "desktop/submenu.less";
+
 /*content experiencias*/
 #experiencias {
   padding: 20px 0px 0px 0px;
@@ -640,21 +568,16 @@ ul.subMenu li.active a {
 }
 .block_comp {
   width: 381px;
-  height: 100px;
   position: relative;
-  border-bottom: dotted 1px #666;
+  text-align: center;
 }
 .block_comp img {
-  position: absolute;
-  top: 10px;
-  left: 0px;
+  padding-bottom: 10px;
 }
 #comprar .block_comp p {
-  position: absolute;
-  top: 15px;
-  left: 115px;
   color: #5f5a5a;
   font-size: 14px;
+  text-align: center;
 }
 #comprar .block_comp p a {
   color: #5f5a5a;
