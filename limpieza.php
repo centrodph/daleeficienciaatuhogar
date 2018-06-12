@@ -19,26 +19,21 @@ $cache=date('l jS \of F Y h:i:s A');
 ?>
                 <div class="clear"></div>
                 <div id="limpieza">
-                    <img src="images/limpieza_principal.jpg" width="949" height="239" class="imgPrincipal" />
+        <img src="images/limpieza_principal.jpg" width="949" height="239" class="imgPrincipal" />
+		<div class="clear"></div>
+          		<div class="colLeft">
+                    <h1 class="tGrisN">Limpieza.</h1>
+                    <img src="images/limpieza_01.jpg" width="196" height="106" />
+            	</div>
+                <div class="colCenter">
+     				<h4>El vitrocerámico transparente para equipos a leña SCHOTT ROBAX sólo debe limpiarse una vez que se haya enfriado. </h4>
+                    <p class="jus">¿Cómo limpiarlo? ¿Cuál es el mejor opción? La mejor y más económica opción es usar como producto de limpieza a las cenizas que se encuentran en el equipo. Para llevar a cabo la limpieza del vitrocerámico, introduzca un trapo húmedo o un pedazo de diario en la cámara del equipo en donde se encuentran las cenizas "frías" y frote el trapo o el diario con las mismas. Luego frote el trapo o diario en la ventana de la estufa o hogar. Después, límpie el vitrocerámico nuevamente con un paño húmedo y luego pase una toalla o paño seco sobre el mismo. </p>
+                </div>
+                <div class="colRigth">
                     <div class="clear"></div>
-                    <div class="colLeft">
-                        <h1 class="tGrisN">Limpieza</h1>
-                        <img src="images/limpieza_01.jpg" width="196" height="106" />
-                    </div>
-                    <div class="colCenter">
-                        <h4>Os vitrocerâmicos SCHOTT ROBAX só devem ser limpos depois que estiverem frios </h4>
-                        <p class="jus">Como faço para limpá-lo? Qual é a melhor opção? A melhor e mais econômica opção é usar as próprias
-                            cinzas que se encontram na lareira após o uso. Para limpar o vitrocerâmico SCHOTT ROBAX, utilize
-                            algumas folhas de jornal úmido com um pouco das cinzas frias e passe sobre o vitrocerâmico SCHOTT
-                            ROBAX. Depois seque com uma toalha ou um pano seco. </p>
-                    </div>
-                    <div class="colRigth">
-                        <div class="clear"></div>
-                        <p class="jus">Além das cinzas, há uma série de produtos especiais para limpeza e cuidados com vitrocerâmico SCHOTT
-                            ROBAX (por favor, não use um limpador de vidro). Basta seguir as instruções sobre os produtos
-                            de limpeza adequados, conforme as recomendações dos fabricantes. </p>
-                        <blockquote>Cuidado: De forma alguma devem ser utilizados produtos abrasivos ou esponjas.</blockquote>
-                    </div>
+                    <p class="jus">Además de la ceniza, hay una serie de productos especiales para la limpieza y cuidado del vitrocerámico (por favor, no use un limpiador de cristales). Simplemente siga las instrucciones de los productos de limpieza según lo recomendado por el fabricante. </p>
+                    <blockquote>CUIDADO: Bajo ninguna circunstancia debe usted usar cualquier producto de limpieza abrasivo (por ejemplo: desgrasantes) o esponjas</blockquote>
+                </div>  
                     <div class="clear"></div>
                 </div>
                 <?php include("inc.footer.php");

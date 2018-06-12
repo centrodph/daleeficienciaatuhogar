@@ -27,7 +27,7 @@ leña moderno, disfrutando de la calidez y visión de las llamas.</p>
             <div class="block_comp">
               <img src="./de/images/bosca.png" />
               <p>
-                <a href="http://bosca.net.ar/" target="_blank">www.bosca.cl</a>
+                <a href="http://bosca.net.ar/" target="_blank">www.bosca.net.ar</a>
               </p>
             </div>
             <div class="clear"></div>

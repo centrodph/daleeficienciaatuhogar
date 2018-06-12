@@ -51,7 +51,7 @@
 ?>
                 <div id="homeC">
                     <div id="slider" class="hidden-mobile">
-                        <img src="./de/images/home.jpg" />
+                        <img src="./de/images/Imagen-para-Home-web.jpg" />
                     </div>
                     <div class="homeD">
                         <div class="homebanner-top-right">

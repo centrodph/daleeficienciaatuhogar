@@ -40,6 +40,163 @@ $cache=date('l jS \of F Y h:i:s A');
                     Los pellets tienen un contenido de humedad de menos del 10 por ciento. Por ese motivo, su valor calor&iacute;fico es de unos 5 Kw por kg, equivalente a medio litro de fueloil. </p>
                     </div>
                     <div class="clear"></div>
+<table cellspacing="0" cellpadding="0" class="table-compra-venta">
+  <tr class="table-title">
+    <td>Nombre</td>
+    <td>Dirección</td>
+    <td>Teléfono</td>
+  </tr>
+  <tr>
+    <td>Venta de leña   y carbon Gustavo</td>
+    <td>Av Pte A Illia 11900,   Tortuguitas, Buenos Aires, Argentina</td>
+    <td>2320 49-6296</td>
+  </tr>
+  <tr>
+    <td>Casa   Devoto </td>
+    <td>Las Piedras 1747,   B1646BOA San Fernando, Buenos Aires, Argentina</td>
+    <td>11 4725-3778</td>
+  </tr>
+  <tr>
+    <td>Casa Vazquez</td>
+    <td>Av. Ing Eduardo   Madero 1149, B1669CKF Pilar, Buenos Aires, Argentina</td>
+    <td>2320 47-2248</td>
+  </tr>
+  <tr>
+    <td>Quebracho Ruta   6</td>
+    <td>Ameghino 280, Los   Cardales, Buenos Aires, Argentina</td>
+    <td>2304 462196</td>
+  </tr>
+  <tr>
+    <td>Hielo y leña   Irigoyen</td>
+    <td>Hipólito Irigoyen   6420, 1646CBQ Virreyes, San Fernando, Buenos Aires, Argentina</td>
+    <td>11 4714-0078</td>
+  </tr>
+  <tr>
+    <td>Leñera   Paternal</td>
+    <td>&nbsp;Punta Arenas   1601, Buenos Aires, Argentina</td>
+    <td>11 4584-8668</td>
+  </tr>
+  <tr>
+    <td>Cabroneria   Nacho</td>
+    <td>Edison 1118, B1640HQX   Martínez, Buenos Aires, Argentina</td>
+    <td>11 4733-9131</td>
+  </tr>
+  <tr>
+    <td>La Carboneria</td>
+    <td>Gral. Martín M. de   Güemes 1649, B1602DUC Florida, Buenos Aires, Argentina</td>
+    <td>11 4797-2080</td>
+  </tr>
+  <tr>
+    <td>Forestal   Quebracho S.A</td>
+    <td>Av. Córdoba 5453,   Buenos Aires, C.f., Argentina</td>
+    <td>11 4778-3777</td>
+  </tr>
+  <tr>
+    <td>Carboneria   Tango SRL</td>
+    <td>Av. Elcano 4955,   C1427CIH CABA, Argentina</td>
+    <td>11 4553-9449</td>
+  </tr>
+  <tr>
+    <td>La Leñera</td>
+    <td>Camino Gral. Belgrano   &amp; Diagonal 455, B1896 City Bell, Buenos Aires, Argentina</td>
+    <td>0221 673-5038</td>
+  </tr>
+  <tr>
+    <td>Quiminor   Argentina</td>
+    <td>Av. Sta Fe 2707,   B1640IGB Martínez, Buenos Aires, Argentina</td>
+    <td>11 4897-0181</td>
+  </tr>
+  <tr>
+    <td>Los Jose</td>
+    <td>Camino Gral. Belgrano   2243, entre calles 22 y 23, km 26, Berazategui Bs As</td>
+    <td>11 4391 1005</td>
+  </tr>
+  <tr>
+    <td>El Toti</td>
+    <td>Mariano Acosta 2030,   C1407KCP CABA, Argentina</td>
+    <td>11 4611-6880</td>
+  </tr>
+  <tr>
+    <td>El Quebrachal</td>
+    <td>80 La Plata - Buenos   Aires</td>
+    <td>(0221) 457-1306  /&nbsp;(0221) 15-624-0124&nbsp;</td>
+  </tr>
+  <tr>
+    <td>El gran   Santiagueño</td>
+    <td>Av Pte J D Perón   4600&nbsp;San Martín - Buenos Aires</td>
+    <td>(011) 4713 -   2884&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Carboleña</td>
+    <td>Av Caseros   786&nbsp;Tres Arroyos - Buenos Aires</td>
+    <td>(02983) 43 - 2431</td>
+  </tr>
+  <tr>
+    <td>El Gringo</td>
+    <td>Camino Rivadavia   -&nbsp;Ensenada - Buenos Aires</td>
+    <td>(0221) 469 - 3192</td>
+  </tr>
+  <tr>
+    <td>Carboneria   Rossi</td>
+    <td>Diag Tucum N   859&nbsp;Martínez - Buenos Aires</td>
+    <td>(011) 4792 - 6657</td>
+  </tr>
+  <tr>
+    <td>Carboneria El   Argentino</td>
+    <td>Malvinas Argentinas   2473&nbsp;San Fernando - Buenos Aires</td>
+    <td>(011) 4725 - 0608</td>
+  </tr>
+  <tr>
+    <td>Leñera el   Litoral</td>
+    <td>AV J GONZÁLEZ   1135&nbsp;San Bernardo - Buenos Aires</td>
+    <td>(02257) 46 - 5718</td>
+  </tr>
+  <tr>
+    <td>Norbrasas</td>
+    <td>Ruta 8 5174&nbsp;San   Martín - Buenos Aires</td>
+    <td>(011) 4769 - 3910</td>
+  </tr>
+  <tr>
+    <td>La   Palmera&nbsp;</td>
+    <td>Calle 70   3665&nbsp;Necochea - Buenos Aires</td>
+    <td>(02262) 15 - 57 -   1627</td>
+  </tr>
+  <tr>
+    <td>El Trébol</td>
+    <td>Rosales 3025, esquina   colectora Ruta 11 Cariló BUENOS AIRES 7167</td>
+    <td>(02254) 48 6211</td>
+  </tr>
+  <tr>
+    <td>Leña dura</td>
+    <td>Buenos Aires 1097   Lobos BUENOS AIRES 7240</td>
+    <td>(02227) 15 48 2768​</td>
+  </tr>
+  <tr>
+    <td>Arimex SA</td>
+    <td>Ruta 35&nbsp;Bahía   Blanca - Buenos Aires</td>
+    <td>(0291) 488-6901</td>
+  </tr>
+  <tr>
+    <td>Forraje   Hermanos Lopez&nbsp;</td>
+    <td>Rincón   3617&nbsp;Bahía Blanca - Buenos Aires</td>
+    <td>(0291) 481 - 5442</td>
+  </tr>
+  <tr>
+    <td>Fraccionadora   Salvatore</td>
+    <td>Cervantes 2120 Merlo</td>
+    <td>(0220) 482-5382</td>
+  </tr>
+  <tr>
+    <td>Fuego Listo</td>
+    <td>Roma 2856 Isidro   Casanova</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Forestal Merlo   Srl</td>
+    <td>Monteverde 2375 Merlo</td>
+    <td>-</td>
+  </tr>
+</table>
                 </div>
                 <?php include("inc.footer.php");
 ?>

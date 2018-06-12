@@ -1,18 +1,21 @@
-<?php  $active=3; ?>
+<?php  $active=3;
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
-    <?php include("./de/meta.php"); ?>
+    <?php include("./de/meta.php");
+?>
 </head>
-
 <body id="brgBody">
     <div id="brgWrapper">
         <div id="wrapper">
-            <?php include("inc.head.php"); ?>
+            <?php include("inc.head.php");
+?>
             <div id="content">
-                <?php include("inc.menu.php"); ?>
-                <?php // include("inc.submenuExperiencias.php"); ?>
+                <?php include("inc.menu.php");
+?>
+                <?php  include("inc.submenuExperiencias.php");
+?>
                 <div class="clear"></div>
                 <div id="pananeles">
                     <img src="./de/images/robax-a-medida.jpg" class="imgPrincipal" />
@@ -62,10 +65,10 @@
                     </div>
                     <div class="clear"></div>
                 </div>
-                <?php include("inc.footer.php");?>
+                <?php include("inc.footer.php");
+?>
             </div>
         </div>
     </div>
 </body>
-
 </html>
