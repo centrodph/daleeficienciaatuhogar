@@ -9,7 +9,7 @@
   <li <?php if ($active == 2) {
 	echo 'class="active"';
 }
-?>><a href="experiencias.php" title="EXPERIENCIAS">EFICIENCIA ENERGETICA</a></li>
+?>><a href="clima_perfecto.php" title="EXPERIENCIAS">EFICIENCIA ENERGETICA</a></li>
   <li <?php if ($active == 3) {
 	echo 'class="active"';
 }
