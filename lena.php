@@ -40,6 +40,8 @@ $cache=date('l jS \of F Y h:i:s A');
                     Los pellets tienen un contenido de humedad de menos del 10 por ciento. Por ese motivo, su valor calor&iacute;fico es de unos 5 Kw por kg, equivalente a medio litro de fueloil. </p>
                     </div>
                     <div class="clear"></div>
+                    <h3 class="header-table">Algunas empresas que se dedican a la venta de leña en Buenos Aires  </h3>
+                    <div class="clear"></div>
 <table cellspacing="0" cellpadding="0" class="table-compra-venta">
   <tr class="table-title">
     <td>Nombre</td>

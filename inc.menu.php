@@ -10,11 +10,7 @@
 	echo 'class="active"';
 }
 ?>><a href="clima_perfecto.php" title="EXPERIENCIAS">EFICIENCIA ENERGETICA</a></li>
-  <li <?php if ($active == 3) {
-	echo 'class="active"';
-}
-?>><a href="paneles.php" title="PERGUNTAS FREQUENTES ">ROBAX A MEDIDA</a></li>
-  <li <?php if ($active == 5) {
+<li <?php if ($active == 5) {
 	echo 'class="active"';
 }
 ?>><a href="comprar.php" title="COMPRAR">COMPRAR</a></li>
@@ -22,7 +18,7 @@
 	echo 'class="active"';
 }
 ?>><a href="contacto.php" title="CONTACTO">CONTACTO</a></li>                
-<li>
+<li class="search-menu-item">
 <div class="mm">
             <form action="" method="" class="fsearch">
             <select class="isearch" onchange="javascript: window.location=(this.value);">

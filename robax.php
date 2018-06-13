@@ -15,9 +15,21 @@
         <?php include("inc.menu.php");
 ?>
         <div id="comprar">
-          <img src="./de/images/schottRobax.jpg" width="100%" class="imgCentral" />
-          <h1>Bienvenido a SCHOTT ROBAX®!</h1><br/><br/>
-		  <p>Como marca de SCHOTT , SCHOTT ROBAX® 
+          <?php
+
+
+
+
+
+
+
+
+
+
+/*
+"./de/images/schottRobax.jpg" width="100%" class="imgCentral" />
+<h1>Bienvenido a SCHOTT ROBAX®!</h1><br/><br/>
+<p>Como marca de SCHOTT , SCHOTT ROBAX® 
       también se encuentra en la senda del éxito.<br/><br/>
 Los más de 100 millones de paneles vitrocerámicos de ROBAX® 
 para chimeneas vendidos en 40 años, avalan a SCHOTT como 
@@ -27,7 +39,8 @@ aprovechamos junto a los fabricantes de chimeneas las oportunidades del mercado.
 Como impulsores de ideas para productos, mercados y ventas, 
 ROBAX® satisface los deseos de los clientes finales antes 
 de que incluso los pongan de manifiesto.<br/><br/><br/>
- </p>   
+ </p>   */?>
+ <iframe src="https://www.schott.com/robax/spanish/index.html"  width="100%" height="2500px" frameborder="none"></iframe>
           <div class="clear"></div>
         </div>
         <?php include("inc.footer.php");

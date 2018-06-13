@@ -21,7 +21,7 @@
                     <img src="./de/images/robax-a-medida.jpg" class="imgPrincipal" />
                     <div class="clear"></div>
                     <div class="colLeft">
-                        <h1 class="tGrisN">Paneles de vitrocer�mico para ver el fuego</h1>
+                        <h1 class="tGrisN">Paneles de vitrocerámico para ver el fuego</h1>
                         <img src="images/paneles_01.jpg" width="196" height="161" />
                     </div>
                     <div class="colCenter">

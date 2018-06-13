@@ -25,7 +25,7 @@ leña moderno, disfrutando de la calidez y visión de las llamas.</p>
           </div>
           <div class="comprarLugares">
             <div class="block_comp">
-              <img src="./de/images/bosca.png" />
+            <a href="http://bosca.net.ar/" target="_blank"><img src="./de/images/bosca.png" /></a>
               <p>
                 <a href="http://bosca.net.ar/" target="_blank">www.bosca.net.ar</a>
               </p>
@@ -34,7 +34,7 @@ leña moderno, disfrutando de la calidez y visión de las llamas.</p>
           </div>
           <div class="comprarLugares">
             <div class="block_comp">
-              <img src="./de/images/lepen.png" />
+            <a href="http://www.lepencalefactores.com.ar/" target="_blank"><img src="./de/images/lepen.png" /></a>
               <p>
                 <a href="http://www.lepencalefactores.com.ar/" target="_blank">www.lepencalefactores.com.ar</a>
               </p>
@@ -43,7 +43,7 @@ leña moderno, disfrutando de la calidez y visión de las llamas.</p>
           </div>
           <div class="comprarLugares">
             <div class="block_comp">
-              <img src="./de/images/nuke.png" />
+            <a href="http://www.productosnuke.com.ar/" target="_blank"><img src="./de/images/nuke.png" /></a>
               <p>
                 <a href="http://www.productosnuke.com.ar/" target="_blank">www.productosnuke.com.ar</a>
               </p>
