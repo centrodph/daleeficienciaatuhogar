@@ -31,10 +31,9 @@ $cache=date('l jS \of F Y h:i:s A');
      				<img src="images/hogares-y-chimeneas_central.jpg" />
           </div>
                 <div class="colRigth">
-<a href="experiencias_hogares_chimeneas.php" class="link86 blue2">HOGARES & CHIMENEAS</a>
-<a href="experiencias_estufas_lena.php" class="link86 blue3">ESTUFAS <br/>A LEÑA</a>
-<a href="experiencias_estufas_pellet.php" class="link86 orange">ESTUFAS <br/>A PELLET</a>
-<a href="experiencias_calefactores.php" class="link86 gris">COCINAS <br/>A LEÑA</a>                    <div class="clear"></div>
+                <?php  include("inc.menu-experiencias-estufas.php");
+?>
+                  <div class="clear"></div>
                     <h5>Los hogares pueden dar a un ambiente una apariencia más elegante que cualquier otra forma de calefacción.</h5>
                     <p class="jus">Los materiales clásicos como piedra o mármol pueden mejorar su atractivo, haciéndolos ideales para edificios antiguos y casas modernas, tipo estilo retro. Al crearse la nueva generación de insertos a leña, usted puede disfrutar de un hogar o chimenea en todo su esplendor, gracias al alto rendimiento del equipo, hermeticidad y la no existencia de humo, olor y chispas. Dele vida a su hogar colocando los nuevos insertos a leña y vuelva a disfrutar de una clara visión del fuego sin ninguna molestia. </p>
                 </div>   

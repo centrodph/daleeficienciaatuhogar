@@ -32,7 +32,7 @@ $cache=date('l jS \of F Y h:i:s A');
                 <div class="colRigth">
                     <div class="clear"></div>
                     <p class="jus">Además de la ceniza, hay una serie de productos especiales para la limpieza y cuidado del vitrocerámico (por favor, no use un limpiador de cristales). Simplemente siga las instrucciones de los productos de limpieza según lo recomendado por el fabricante. </p>
-                    <blockquote>CUIDADO: Bajo ninguna circunstancia debe usted usar cualquier producto de limpieza abrasivo (por ejemplo: desgrasantes) o esponjas</blockquote>
+                    <blockquote style="color:red">CUIDADO: Bajo ninguna circunstancia debe usted usar cualquier producto de limpieza abrasivo (por ejemplo: desgrasantes) o esponjas</blockquote>
                 </div>  
                     <div class="clear"></div>
                 </div>

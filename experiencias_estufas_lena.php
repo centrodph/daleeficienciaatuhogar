@@ -31,10 +31,9 @@ $cache=date('l jS \of F Y h:i:s A');
      				<img src="images/estufas_center.jpg" />
          		</div>
                 <div class="colRigth">
-<a href="experiencias_hogares_chimeneas.php" class="link86 blue2">HOGARES & CHIMENEAS</a>
-<a href="experiencias_estufas_lena.php" class="link86 blue3">ESTUFAS <br/>A LEÑA</a>
-<a href="experiencias_estufas_pellet.php" class="link86 orange">ESTUFAS <br/>A PELLET</a>
-<a href="experiencias_calefactores.php" class="link86 gris">COCINAS <br/>A LEÑA</a>                    <div class="clear"></div>
+                <?php  include("inc.menu-experiencias-estufas.php");
+?>
+                <div class="clear"></div>
                     <p class="jus">Hoy en d&iacute;a hay una nueva generaci&oacute;n de estufas a le&ntilde;a, o como popularmente se conocen en el mercado &ldquo;salamandras&rdquo;, en donde se puede calefaccionar un ambiente sin humo, sin olor y sin chispas, debido a que las puertas que utilizan esta nueva generaci&oacute;n de equipos modernos tienen Vitrocer&aacute;mica Transparente SCHOTT ROBAX.<br />Dichos equipos se han hecho muy populares en nuestro pa&iacute;s por diferentes motivos:</p>
                     <p class="pNarBullet jus">Hay una gran selección disponible de estufas a leña económicas de alta calidad que son fáciles de instalar y de usar.</p>
                     <p class="pBlueBullet jus">Las estufas a leña calientan rápidamente (ideal para quien trabaja y solo desea calentar su casa por la noche), pero también pueden emplearse para calefacción constante. </p>

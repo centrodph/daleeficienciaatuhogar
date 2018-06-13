@@ -3,12 +3,10 @@ $cache=date('l jS \of F Y h:i:s A');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
     <?php include("./de/meta.php");
 ?>
 </head>
-
 <body id="brgBody">
     <div id="brgWrapper">
         <div id="wrapper">
@@ -33,7 +31,7 @@ $cache=date('l jS \of F Y h:i:s A');
                             el humo, olor y chispas lo tiene en desuso hace años, o lo utiliza a gas. Todas sus complicaciones
                             han terminado!! Si quiere instalar un hogar o una estufa en una casa, es muy posible que todo
                             lo que deba hacer sea crear el acceso a una chimenea u hogar ya existente.
-                            <br /> Hoy en día se instalan cada vez más hogares y equipos a leña en departamentos y casas de alquiler.
+                            <br /> Hoy en día se instalan cada vez más hogares y equipos a leña en departamentos y casas.
                         </p>
                     </div>
                     <div class="clear"></div>
@@ -44,5 +42,4 @@ $cache=date('l jS \of F Y h:i:s A');
         </div>
     </div>
 </body>
-
 </html>

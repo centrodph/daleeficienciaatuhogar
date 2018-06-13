@@ -20,8 +20,7 @@ include("inc.menu.php");
                 <div id="comprar">
                     <img src="images/imgCentralComprar.jpg" width="1000" height="284" class="imgCentral" />
                     <h1>Contacto</h1>
-                    <p>Si tiene alguna duda, o consulta, por favor no dude en contactarnos. En todas las ciudades hay personas
-                        que lo asesorarán con mucho gusto. </p>
+                    <p>Si tiene alguna duda, o consulta, por favor no dude en contactarnos.</p>
                     <h4>
                         <a href="mailto:info@daleeficienciaatuhogar.com.ar">info@daleeficienciaatuhogar.com.ar</a>
                     </h4>
@@ -44,6 +43,17 @@ include("inc.menu.php");
                         </div>
                         <div class="clear"></div>
                     </div>
+          <div class="impronta">
+          <h5>Impronta.</h5>
+            <p>Schott Envases Argentina SA<br />
+              Los Crisantemos 265, Edif. Skyglass<br />
+              1629 - Del viso -Pilar, Buenos Aires<br />
+              Argentina</p>
+            <p>Phone: + 54 (11) 5217 - 8214
+              <br / >
+            www.schott.com</p>
+            <div class="clear"></div>
+          </div>
                     <div class="clear"></div>
                 </div>
                 <?php 

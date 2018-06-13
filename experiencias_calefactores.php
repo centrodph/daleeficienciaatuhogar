@@ -29,10 +29,9 @@ $cache=date('l jS \of F Y h:i:s A');
      				<img src="images/cocinas_hornos_lena_01.jpg" />
                 </div>
                 <div class="colRigth">
-<a href="experiencias_hogares_chimeneas.php" class="link86 blue2">HOGARES & CHIMENEAS</a>
-<a href="experiencias_estufas_lena.php" class="link86 blue3">ESTUFAS <br/>A LEÑA</a>
-<a href="experiencias_estufas_pellet.php" class="link86 orange">ESTUFAS <br/>A PELLET</a>
-<a href="experiencias_calefactores.php" class="link86 gris">COCINAS <br/>A LEÑA</a>                    <div class="clear"></div>
+                <?php  include("inc.menu-experiencias-estufas.php");
+?>
+               <div class="clear"></div>
                     <p class="jus">Las cocinas y hornos a leña actualmente experimentan un resurgimiento. Aparte de proporcionar calor, también son excelentes para cocinar, hornear y asar. Los hornos de leña confieren al pan, las pizzas, etc., un aroma inconfundible. La gran mayoría de las cocinas y hornos tienen una puerta de vitrocerámico en la cámara de combustión y son demasiado atractivas para estar situadas en la cocina. </p>
                 </div>  
                     <div class="clear"></div>

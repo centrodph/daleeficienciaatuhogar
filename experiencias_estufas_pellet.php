@@ -30,10 +30,9 @@ $cache=date('l jS \of F Y h:i:s A');
      				<img src="images/pellet_center.jpg" />
    		  </div>
                 <div class="colRigth">
-<a href="experiencias_hogares_chimeneas.php" class="link86 blue2">HOGARES & CHIMENEAS</a>
-<a href="experiencias_estufas_lena.php" class="link86 blue3">ESTUFAS <br/>A LEÑA</a>
-<a href="experiencias_estufas_pellet.php" class="link86 orange">ESTUFAS <br/>A PELLET</a>
-<a href="experiencias_calefactores.php" class="link86 gris">COCINAS <br/>A LEÑA</a>                    <div class="clear"></div>
+<?php  include("inc.menu-experiencias-estufas.php");
+?>
+                   <div class="clear"></div>
                     <p class="jus">Las estufas de pellet ofrecen una forma particularmente simple de utilizar madera para calentar. Sus ventajas incluyen la calidad est&aacute;ndar del combustible, el cual est&aacute; garantizado para arder limpiamente dejando pocos residuos, y su facilidad de uso. Muchas estufas de pellet son parcial o totalmente autom&aacute;ticas, lo que significa que ni siquiera requieren prenderse manualmente. Al tener la estufa una puerta con vitrocer&aacute;mico, ver arder los pellets es totalmente cautivante. </p>
                 </div>   
                     <div class="clear"></div>
