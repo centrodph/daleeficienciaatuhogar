@@ -2,12 +2,10 @@
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
 	<?php include("./de/meta.php");
 ?>
 </head>
-
 <body id="brgBody">
 	<div id="brgWrapper">
 		<div id="wrapper">
@@ -23,8 +21,9 @@
 					<div class="formContacto">
 						<div class="gracias">
 							<h5>Los invitamos a seguirnos para mantenerlos actualizados acerca de las novedades de nuestra empresa y de nuestros productos</h5>
-							<a href="http://www.facebook.com/pages/Dale-vida-a-tu-hogar/140625592677754" class="face"></a>
-							<a href="http://twitter.com/#!/DaleVidatuhogar" class="twit"></a>
+							<?php 
+/*<a href="http://www.facebook.com/pages/Dale-vida-a-tu-hogar/140625592677754" class="face"></a>
+<a href="http://twitter.com/#!/DaleVidatuhogar" class="twit"></a> */ ?>
 						</div>
 						<div class="clear"></div>
 					</div>
@@ -36,5 +35,4 @@
 		</div>
 	</div>
 </body>
-
 </html>

@@ -1,40 +1,40 @@
 <?php
-	
+
 if($_SERVER['REQUEST_METHOD']=="POST"){
-
-
+	
+	
 	require_once("classForms.php");
 	$s= new Form();
 	$nombre   =(string)strip_tags($_POST["nombre"]);
 	$apellido =(string)strip_tags($_POST["apellido"]);
 	$email    =(string)strip_tags($_POST["email"]);
-	$mensaje =(string)strip_tags($_POST["mensaje"]);	
+	$mensaje =(string)strip_tags($_POST["mensaje"]);
 	
-    if(!$s->setNombre($nombre)){
-        $msn.=$s->error."<br>";
-    }
-    elseif(!$s->setApellido($apellido)){
-        $msn.=$s->error."<br>";
-    }
-
-    elseif(!$s->setEmail($email)){
-        $msn.=$s->error."<br>";
-    }
-    elseif(!$s->setMesaje($mensaje)){
-        $msn.=$s->error."<br>";
-    }	
+	if(!$s->setNombre($nombre)){
+		$msn.=$s->error."<br>";
+	}
+	elseif(!$s->setApellido($apellido)){
+		$msn.=$s->error."<br>";
+	}
+	
+	elseif(!$s->setEmail($email)){
+		$msn.=$s->error."<br>";
+	}
+	elseif(!$s->setMesaje($mensaje)){
+		$msn.=$s->error."<br>";
+	}
 	
 	
 	if($msn!=""){
 		echo $msn;
 	}
-	else{ 
+	else{
 		sendMensaje($nombre,$apellido,$email,$mensaje);
-		echo "Ok";	
+		echo "Ok";
 	}
 	
 	
-
+	
 }
 
 ?>
@@ -42,22 +42,21 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 
 function sendMensaje($nombre,$apellido,$email,$mensaje){
 	
-$today = date("F j, Y, g:i a");
-require("php-mailer/class.phpmailer.php");
-$mail = new PHPMailer();
-$mail->Host = "localhost";
-$mail->From = $email;
-$mail->FromName = "Dale Vida";
-$mail->Subject = "Consulta Aquecendo seu lar : ".$today;
-$mail->AddAddress("info@aquecendoseular.com.br","Aquecendo seu lar");
-
-$body  = "
+	$today = date("F j, Y, g:i a");
+	require("php-mailer/class.phpmailer.php");
+	$mail = new PHPMailer();
+	$mail->Host = "localhost";
+	$mail->From = $email;
+	$mail->FromName = "Dale Eficiencia a tu hogar";
+	$mail->Subject = "Consulta Dale Eficiencia a tu hogar : ".$today;
+	$mail->AddAddress("info@daleeficienciaatuhogar.com.ar","Dale Eficiencia a tu hogar");
+	
+	$body  = "
 <html>
 <head>
 <meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1' />
 <title>Documento sin título</title>
 </head>
-
 <body>
 <table width='600' border='0' align='center' cellpadding='0' cellspacing='8' style='font-family:Verdana, Geneva, sans-serif; color:#333;'>
   <tr>
@@ -86,11 +85,11 @@ $body  = "
 </body>
 </html>
 ";
-
-$mail->Body = $body;
-$mail->AltBody = "Consulta Dale Vida a Tu Hogar : ".$today;
-$mail->Send();	
-
+	
+	$mail->Body = $body;
+	$mail->AltBody = "Consulta Dale Eficiencia a Tu Hogar : ".$today;
+	$mail->Send();
+	
 }
 
 ?>
