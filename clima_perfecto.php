@@ -18,7 +18,7 @@
 ?>
                                 <div class="clear"></div>
                                 <div id="clima_perfecto">
-       			 <img src="images/clima_perfecto.jpg" width="949" height="238" class="imgPrincipal" />
+       			 <img src="./de/images/clima_perfecto.jpg"  class="imgPrincipal" />
      <div class="clear"></div>
           		<div class="colLeft">
                     <h1 class="tGrisN">Clima perfecto.</h1>
@@ -26,7 +26,7 @@
                     <img src="images/clima_perfecto_02.jpg" width="196" height="113" class="imgleft02" />
             	</div>
                 <div class="colCenter">
-          			<img src="images/clima_perfecto_central.jpg" width="355" height="267" />
+          			<img src="/de/images/clima_perfecto_central.jpg" width="355" height="267" />
           		</div>
                 <div class="colRigth">
                     <div class="clear"></div>

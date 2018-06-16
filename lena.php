@@ -23,8 +23,7 @@ $cache=date('l jS \of F Y h:i:s A');
                     <div class="clear"></div>
                     <div class="colLeft">
                     <h1 class="tGrisN">Leña: en armonía y fraternidad con el medio ambiente</h1>
-                        <img src="images/lena_01.jpg" width="196" height="130" class="imgleft01" />
-                        <img src="images/lena_02.jpg" width="196" height="129" class="imgleft02" />
+                        <img src="./de/images/lenaleft.jpg" class="imgleft01" />                        
                     </div>
                     <div class="colCenter">
                     <p class="jus">La decisi&oacute;n de calentar su casa con le&ntilde;a es la perfecta combinaci&oacute;n de est&eacute;tica, bienestar y calidez. Adem&aacute;s al ser combustible neutro para el carbono, la madera ayuda a mantener el equilibrio ecol&oacute;gico.</p>

@@ -28,7 +28,7 @@ $cache=date('l jS \of F Y h:i:s A');
                     <img src="images/hogares-y-chimeneas_02.jpg" width="195" height="119" class="imgleft02" />
             	</div>
                 <div class="colCenter">
-     				<img src="images/hogares-y-chimeneas_central.jpg" />
+     				<img src="./de/images/hogares-y-chimeneas_central.jpg" />
           </div>
                 <div class="colRigth">
                 <?php  include("inc.menu-experiencias-estufas.php");
