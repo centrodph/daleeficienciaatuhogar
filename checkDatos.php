@@ -60,7 +60,7 @@ function sendMensaje($nombre,$apellido,$email,$mensaje){
 <body>
 <table width='600' border='0' align='center' cellpadding='0' cellspacing='8' style='font-family:Verdana, Geneva, sans-serif; color:#333;'>
   <tr>
-    <td height='55' colspan='2' align='center' bgcolor='#88d1ee'><h1 style='font-size:16px;'>Consulta desde la Web Dale Vida a tu Hogar</h1></td>
+    <td height='55' colspan='2' align='center' bgcolor='#88d1ee'><h1 style='font-size:16px;'>Consulta desde la Web Dale Eficiencia a tu Hogar</h1></td>
   </tr>
   <tr>
     <td width='13%'><h5>Nombre:</h5></td>
