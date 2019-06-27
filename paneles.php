@@ -64,6 +64,26 @@
                             panel se transforma en un espejo, reflejando la imagen del exterior. </p>
                     </div>
                     <div class="clear"></div>
+                    <div class="impronta robax-infront">                        
+                        <h3>SCHOTT ROBAX® ADELANTE  mensaje para fabricantes de Chimeneas.</h3>
+                        <img src="./de/images/robax-in-front.jpg" class="img-robax-infront"/>
+                        <p>Nosotros usamos paneles de vitroceramica transparente SCHOTT ROBAX® en nuestras
+                         chimeneas. Con 40 años de experiencia y 100 millones de paneles vendidos,
+                         SCHOTT ROBAX® es uno de los líderes en la producción de paneles de
+                         vitroceramica.<br/><br/>
+                         Los paneles de vitroceramica transparentes SCHOTT ROBAX® tiene una dilatación
+                          térmica sumamente baja. Está compuesto en un 95% de arena de cuarzo y otras
+                          dos materias primas naturales. Los paneles pueden soportar incluso temporalmente
+                          altas temperaturas de hasta 760 °C así como también las considerables diferencias
+                          de temperatura y choques térmicos.  Estas propiedades de resistencia a altas
+                          temperaturas, la transparencia, la transmisión de calor y larga vida son precisamente
+                          las que permiten a SCHOTT ROBAX®  garantizar una protección total ante los peligros
+                          que puede ocasionar las chispas del fuego.<br/><br/>
+                          Ayudamos a inspirar ideas de producto y cumplir los deseos del cliente,
+                          incluso antes de que las expresen.<br/><br/>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="clear"></div>
                 </div>
                 <?php include("inc.footer.php");
 ?>
