@@ -5,6 +5,17 @@
 <head>
   <?php include("./de/meta.php");
 ?>
+<style>
+.rowComprar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}
+.rowComprar img{
+  padding: 10px;
+}
+</style>
 </head>
 <body id="brgBody">
   <div id="brgWrapper">
@@ -19,37 +30,47 @@
           <h1>Comprar equipos a leña.</h1>
 		  <p>Visite el local de ventas más cercano y aproveche al máximo la eficiencia en calefacción proporcionada por un hogar o estufa a<br />
 leña moderno, disfrutando de la calidez y visión de las llamas.</p>   
-          <div class="map">
-            <img src="./de/images/mapa.jpg" />
-            <div class="clear"></div>
+
+
+          <div class="rowComprar">
+              <a href="http://bosca.net.ar/" target="_blank">
+                <img src="./de/images/images/1.jpg"/>
+              </a>
+              <a href="http://filfer.com/" target="_blank">
+                <img src="./de/images/images/2.jpg"/>
+              </a>
+              <a href="https://www.forzacalefaccion.com.ar/" target="_blank">
+                <img src="./de/images/images/3.jpg"/>
+              </a>
           </div>
-          <div class="comprarLugares">
-            <div class="block_comp">
-            <a href="http://bosca.net.ar/" target="_blank"><img src="./de/images/bosca.png" /></a>
-              <p>
-                <a href="http://bosca.net.ar/" target="_blank">www.bosca.net.ar</a>
-              </p>
-            </div>
-            <div class="clear"></div>
+          <div class="rowComprar">
+              <a href="http://www.lepencalefactores.com.ar/" target="_blank">
+                <img src="./de/images/images/4.jpg"/>
+              </a>
+              <a href="http://www.hogaresmagma.com/" target="_blank">
+                <img src="./de/images/images/5.jpg"/>
+              </a>
+              <a href="http://ofen.com.ar/" target="_blank">
+                <img src="./de/images/images/6.jpg"/>
+              </a>
           </div>
-          <div class="comprarLugares">
-            <div class="block_comp">
-            <a href="http://www.lepencalefactores.com.ar/" target="_blank"><img src="./de/images/lepen.png" /></a>
-              <p>
-                <a href="http://www.lepencalefactores.com.ar/" target="_blank">www.lepencalefactores.com.ar</a>
-              </p>
-            </div>
-            <div class="clear"></div>
+          <div class="rowComprar">
+              <a href="http://www.qutral.com.ar/" target="_blank">
+                <img src="./de/images/images/7.jpg"/>
+              </a>
+              <a href="http://tromen.com/" target="_blank">
+                <img src="./de/images/images/8.jpg"/>
+              </a>
+              <a href="http://www.ulstrup.com.ar/" target="_blank">
+                <img src="./de/images/images/9.jpg"/>
+              </a>
           </div>
-          <div class="comprarLugares">
-            <div class="block_comp">
-            <a href="http://www.productosnuke.com.ar/" target="_blank"><img src="./de/images/nuke.png" /></a>
-              <p>
-                <a href="http://www.productosnuke.com.ar/" target="_blank">www.productosnuke.com.ar</a>
-              </p>
-            </div>
-            <div class="clear"></div>
+          <div class="rowComprar">
+              <a href="http://www.salamandrasverellen.com.ar/" target="_blank">
+                <img src="./de/images/images/10.jpg"/>
+              </a>
           </div>
+          
           <div class="clear"></div>
         </div>
         <?php include("inc.footer.php");

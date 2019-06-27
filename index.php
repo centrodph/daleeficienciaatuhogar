@@ -68,11 +68,23 @@
                     <div class="clear"></div>
                 </div>
                 <div id="fab">
-                    <img src="./de/images/fabricantes.jpg" usemap="#Map" border="0" />
-                    <map name="Map" id="Map">
-                        <area shape="rect" coords="677,74,955,157" href="http://www.productosnuke.com.ar/" target="_blank" />
-                        <area shape="rect" coords="334,74,612,157" href="http://www.lepencalefactores.com.ar/" target="_blank" />
-                        <area shape="rect" coords="2,74,280,157" href="http://bosca.net.ar/" target="_blank" />
+                <a href="comprar.php">
+                <img src="./de/images/fabricantes2.jpg" usemap="#Map" border="0" style='max-width: 100%;'/>
+                </a>
+<?php                
+                // <map name="Map" id="Map">
+                // <area shape="rect" coords="3,46,172,114" href="#bosca" />
+                // <area shape="rect" coords="277,40,450,117" href="#filfer" />
+                // <area shape="rect" coords="568,41,746,116" href="#forza" />
+                // <area shape="rect" coords="844,36,1028,109" href="#lepen" />
+                // <area shape="rect" coords="0,137,167,190" href="#ofen" />
+                // <area shape="rect" coords="277,138,452,197" href="#qutral" />
+                // <area shape="rect" coords="550,132,738,196" href="#tromen" />
+                // <area shape="rect" coords="818,128,1012,192" href="#ulstrup" />
+                // <area shape="rect" coords="1069,123,1305,198" href="#verellen" />
+                // <area shape="rect" coords="1112,35,1312,118" href="#magna" />
+                // </map>
+?>                
                 </div>
                 <?php
             include("inc.footer.php");
