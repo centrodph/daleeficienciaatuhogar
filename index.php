@@ -21,7 +21,7 @@
 ?>
                 <div id="homeC">
                     <div id="slider" class="hidden-mobile">
-                        <img src="./de/images/Imagen-para-Home-web.jpg" />
+                        <img src="./de/images/Imagen-para-Home-web2.jpg" />
                     </div>
                     <div class="homeD">
                         <div class="homebanner-top-right">
