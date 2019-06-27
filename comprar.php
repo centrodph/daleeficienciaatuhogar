@@ -65,8 +65,8 @@ leña moderno, disfrutando de la calidez y visión de las llamas.</p>
                 <img src="./de/images/images/9.jpg"/>
               </a>
           </div>
-          <div class="rowComprar">
-              <a href="http://www.salamandrasverellen.com.ar/" target="_blank">
+          <div class="rowComprar" style="justify-content: center;">
+              <a href="http://www.salamandrasverellen.com.ar/" target="_blank" style="max-width: 33%;">
                 <img src="./de/images/images/10.jpg"/>
               </a>
           </div>
