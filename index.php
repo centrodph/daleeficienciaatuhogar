@@ -42,7 +42,7 @@
                             style="display:none;">OCKEzsXER-k</a>
                         <div class="slidermobile">
                             <div id="sliderImages">
-                            <img src="./de/images/homeMobile.jpg" class="only-mobile" />
+                            <img src="./de/images/homeMobileA.jpg" class="only-mobile" />
                             <img src="./de/images/homeMobile1.jpg" class="only-mobile" />
                             <img src="./de/images/homeMobile2.jpg" class="only-mobile" />
                             </div>
