@@ -43,8 +43,8 @@
                         <div class="slidermobile">
                             <div id="sliderImages">
                             <img src="./de/images/homeMobileA.jpg" class="only-mobile" />
-                            <img src="./de/images/homeMobile1.jpg" class="only-mobile" />
-                            <img src="./de/images/homeMobile2.jpg" class="only-mobile" />
+                            <img src="./de/images/homeMobile.jpg" class="only-mobile" />
+                            <img src="./de/images/homeMobileB.jpg" class="only-mobile" />
                             </div>
                         </div>
                     </div>
@@ -68,6 +68,7 @@
                     <div class="clear"></div>
                 </div>
                 <div id="fab">
+                <img src="./de/images/fabricantesTop.jpg" usemap="#Map" border="0" style='max-width: 80%; margin-bottom:20px; margin-left:auto; margin-right:auto;'/>
                 <a href="comprar.php">
                 <img src="./de/images/fabricantes2.jpg" usemap="#Map" border="0" style='max-width: 100%;'/>
                 </a>
