@@ -26,7 +26,7 @@
         <?php include("inc.menu.php");
 ?>
         <div id="comprar">
-          <img src="./de/images/comprarTop.jpg" class="imgCentral" />
+          <img src="./de/images/comprarTop2.jpg" class="imgCentral" />
           <h1>Comprar equipos a leña.</h1>
 		  <p>Visite el local de ventas más cercano y aproveche al máximo la eficiencia en calefacción proporcionada por un hogar o estufa a<br />
 leña moderno, disfrutando de la calidez y visión de las llamas.</p>   
